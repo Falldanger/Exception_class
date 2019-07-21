@@ -1,0 +1,4 @@
+Class Exception
+
+Create 3 classes that inherit Exception: EmptyException is an exception class that will be thrown when passing an empty parameter, LongException is an exception class that will be thrown when passing an excessively long parameter, and InvalidException is an exception class that will be thrown when an incorrect parameter is passed.
+Redo the previous exercise, throwing out exceptions not of the Exception class, but exceptions that were created in the 1st paragraph.
